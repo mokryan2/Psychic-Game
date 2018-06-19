@@ -21,7 +21,7 @@ document.addEventListener("keydown", function(event){
         guessesLeft = 10;
         randomGuess = compRand[Math.floor((Math.random()*compRand.length))];
         alert("Well look at you. You beat the system.");
-        console.log(event)
+        console.log(event);
         
 }
     else{

@@ -1,0 +1,13 @@
+.body {
+    text-align:center;
+    line-height: 5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 20px;
+    border-color: green;
+    border-style: double;
+    margin-top: 6%;
+    background-color:orange;
+    color:blue;
+    font-weight: bolder;
+    font-size: 16x;
+}
